@@ -33,9 +33,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumeetkumar1012&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sumeetkumar1012&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetkumar1012&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumeetkumar1012&layout=compact&theme=dark" alt="Top Languages" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=sumeetkumar1012&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeetkumar1012&theme=dark" alt="GitHub Streak" />
 </p>
