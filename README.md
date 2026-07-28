@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sumeet Kumar</h1>
 <h3 align="center">Front-end development with HTML/CSS/JS and Back-end with Java OOP.</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sumeetkumar1012&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumeetkumar1012&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a> 
@@ -36,6 +36,4 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sumeetkumar1012&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumeetkumar1012&layout=compact&theme=dark" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=sumeetkumar1012&theme=dark" alt="GitHub Streak" />
 </p>
