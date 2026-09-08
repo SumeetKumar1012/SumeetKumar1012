@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumeet Kumar</h1>
-<h3 align="center">Front-end development with HTML/CSS/JS and Back-end with Java OOP.</h3>
+<h3 align="center">Cybersecurity Enthusiast | Building foundations in Networking, Linux & Offensive Security.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumeetkumar1012&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
